@@ -2,7 +2,7 @@ Welcome to my personal repository, where digital designs come to life through Ve
 
 Repository Overview:
 
-This repository serves as a central hub for my digital design projects using Verilog. It is crafted to showcase various projects from simple components to advanced systems, illustrating the versatility and power of hardware description languages.
+This repository is my playground for exploring the intricacies of digital design using Verilog. From simple logic gates to complex circuits, find all my digital design experiments here. 
 
 Projects Featured:
 
